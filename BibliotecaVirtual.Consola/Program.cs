@@ -1,7 +1,4 @@
-﻿// Gestion biblioteca virtual.
-// Practica desarrollo conjunto
+﻿using BibliotecaVirtual.Consola.Vistas;
 
-// Este es un comentario de un colaborador
-// el otro comentario
-
-/* Este cambio es en el original */
+Menu menuApp = new Menu();
+menuApp.MostrarMenu();
